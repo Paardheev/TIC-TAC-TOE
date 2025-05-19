@@ -1,6 +1,5 @@
 # TIC-TAC-TOE
 
-📄 Project Description
 The project involves building a modular simulation of a two-player Tic-Tac-Toe game. It does not include AI or an automated opponent — instead, it tracks and enforces moves between two human players. The game state is updated after each move, and the system checks for a win or draw condition after every turn.
 
 🧩 Modules Implemented
